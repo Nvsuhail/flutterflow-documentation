@@ -341,7 +341,7 @@ increased battery usage. Therefore, it's essential to consider the trade-offs
 and use rebuilds judiciously to maintain optimal app performance.
 
 To learn more about what happens behind the scenes, refer to
-the [Generated Page] section.
+the [**Generated Code Page**](../../../generated-code/pages-generated-code.md#onpageload-action-generated-code) section.
 :::
 
 
